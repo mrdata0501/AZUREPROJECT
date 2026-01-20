@@ -1,0 +1,9 @@
+{
+	"name": "factorykellonproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a5d25060-81c5-4dbe-82b2-ae09b30313e5",
+		"tenantId": "ec82bd9c-3359-43a5-8318-a368e30b55aa"
+	}
+}
